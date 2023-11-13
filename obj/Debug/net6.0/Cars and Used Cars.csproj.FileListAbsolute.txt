@@ -1,0 +1,15 @@
+C:\Users\me\class-dev\Cars and Used Cars\bin\Debug\net6.0\Cars and Used Cars.exe
+C:\Users\me\class-dev\Cars and Used Cars\bin\Debug\net6.0\Cars and Used Cars.deps.json
+C:\Users\me\class-dev\Cars and Used Cars\bin\Debug\net6.0\Cars and Used Cars.runtimeconfig.json
+C:\Users\me\class-dev\Cars and Used Cars\bin\Debug\net6.0\Cars and Used Cars.dll
+C:\Users\me\class-dev\Cars and Used Cars\bin\Debug\net6.0\Cars and Used Cars.pdb
+C:\Users\me\class-dev\Cars and Used Cars\obj\Debug\net6.0\Cars and Used Cars.csproj.AssemblyReference.cache
+C:\Users\me\class-dev\Cars and Used Cars\obj\Debug\net6.0\Cars and Used Cars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\me\class-dev\Cars and Used Cars\obj\Debug\net6.0\Cars and Used Cars.AssemblyInfoInputs.cache
+C:\Users\me\class-dev\Cars and Used Cars\obj\Debug\net6.0\Cars and Used Cars.AssemblyInfo.cs
+C:\Users\me\class-dev\Cars and Used Cars\obj\Debug\net6.0\Cars and Used Cars.csproj.CoreCompileInputs.cache
+C:\Users\me\class-dev\Cars and Used Cars\obj\Debug\net6.0\Cars and Used Cars.dll
+C:\Users\me\class-dev\Cars and Used Cars\obj\Debug\net6.0\refint\Cars and Used Cars.dll
+C:\Users\me\class-dev\Cars and Used Cars\obj\Debug\net6.0\Cars and Used Cars.pdb
+C:\Users\me\class-dev\Cars and Used Cars\obj\Debug\net6.0\Cars and Used Cars.genruntimeconfig.cache
+C:\Users\me\class-dev\Cars and Used Cars\obj\Debug\net6.0\ref\Cars and Used Cars.dll
